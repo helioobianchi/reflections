@@ -6,7 +6,8 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-		Answer here
+		It's like a 'pre-commit'. It takes a snapshot of the files at the time you add them to the staging area, but doesn't add them to the repository. If I change an added file in the working directory, these changes don't go to the staging area.
+		It's good if you want to save the state of a file before committing just to experiment some quick change to it, so you don't create a possible undesired commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
