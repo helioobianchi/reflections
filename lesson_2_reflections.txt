@@ -17,7 +17,7 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-    Answer here
+    When I need to make experimental changes, or work in the next release version of a program while the current release is having bug fixes.
 
 How do the diagrams help you visualize the branch structure?
 
