@@ -21,7 +21,7 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
-    Answer here
+    They help me see the repository structure in a more global and comprehensive way.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
