@@ -6,3 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
     Because if Git puls changes automatically it may overlap my uncommitted work, or interfere with my current work
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+    Fork: an exact copy of someone else's repository thay you use as your own, that has information from the original repository. Existis only in GitHub.
+    Clone: an exact copy of a repository. Made with Git
+    Branch: a succession of reachable commits
+
