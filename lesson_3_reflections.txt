@@ -12,3 +12,7 @@ Describe the differences between forks, clones, and branches. When would you use
     Clone: an exact copy of a repository. Made with Git
     Branch: a succession of reachable commits
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    I am up-to-date with the changes other people made to the project, so I can change an updated version of the files and maybe prevent myself of adding a feature that someone has already added.
+
