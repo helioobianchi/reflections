@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 
     When I need to work on a project from more than one location. But mainly if my project has many people working on them.
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+    Because if Git puls changes automatically it may overlap my uncommitted work, or interfere with my current work
+
